@@ -1,6 +1,6 @@
 language: c
 
-install: true
+install: make get-deps
 sudo: require
 script: make test
 

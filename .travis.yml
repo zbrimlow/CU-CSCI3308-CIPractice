@@ -3,6 +3,3 @@ language: c
 install: make get-deps
 script: make test
 sudo: require
-
-
-

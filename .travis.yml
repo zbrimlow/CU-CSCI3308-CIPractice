@@ -1,7 +1,8 @@
 language: cpp
 
 install: make get-deps
-sudo: require
 script: make test
+sudo: require
+
 
 
